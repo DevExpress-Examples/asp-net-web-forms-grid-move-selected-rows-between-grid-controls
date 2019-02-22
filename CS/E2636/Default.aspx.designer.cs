@@ -28,7 +28,7 @@ namespace E2636 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGlobalEvents GlobalEvents;
+        protected global::DevExpress.Web.ASPxGlobalEvents.ASPxGlobalEvents GlobalEvents;
         
         /// <summary>
         /// SourceGrid control.
@@ -37,7 +37,7 @@ namespace E2636 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView SourceGrid;
+        protected global::DevExpress.Web.ASPxGridView.ASPxGridView SourceGrid;
         
         /// <summary>
         /// SourceDS control.
@@ -55,7 +55,7 @@ namespace E2636 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxButton btnMoveSelectedItemsToRight;
+        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnMoveSelectedItemsToRight;
         
         /// <summary>
         /// btnMoveAllItemsToRight control.
@@ -64,7 +64,7 @@ namespace E2636 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxButton btnMoveAllItemsToRight;
+        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnMoveAllItemsToRight;
         
         /// <summary>
         /// btnMoveSelectedItemsToLeft control.
@@ -73,7 +73,7 @@ namespace E2636 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxButton btnMoveSelectedItemsToLeft;
+        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnMoveSelectedItemsToLeft;
         
         /// <summary>
         /// btnMoveAllItemsToLeft control.
@@ -82,7 +82,7 @@ namespace E2636 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxButton btnMoveAllItemsToLeft;
+        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnMoveAllItemsToLeft;
         
         /// <summary>
         /// btnRestore control.
@@ -91,7 +91,7 @@ namespace E2636 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxButton btnRestore;
+        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnRestore;
         
         /// <summary>
         /// TargetGrid control.
@@ -100,7 +100,7 @@ namespace E2636 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView TargetGrid;
+        protected global::DevExpress.Web.ASPxGridView.ASPxGridView TargetGrid;
         
         /// <summary>
         /// TargetDS control.

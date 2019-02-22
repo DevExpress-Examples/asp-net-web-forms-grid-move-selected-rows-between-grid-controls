@@ -28,7 +28,7 @@ Namespace E2636
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected GlobalEvents As Global.DevExpress.Web.ASPxGlobalEvents
+		Protected GlobalEvents As Global.DevExpress.Web.ASPxGlobalEvents.ASPxGlobalEvents
 
 		''' <summary>
 		''' SourceGrid control.
@@ -37,7 +37,7 @@ Namespace E2636
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected SourceGrid As Global.DevExpress.Web.ASPxGridView
+		Protected SourceGrid As Global.DevExpress.Web.ASPxGridView.ASPxGridView
 
 		''' <summary>
 		''' SourceDS control.
@@ -55,7 +55,7 @@ Namespace E2636
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnMoveSelectedItemsToRight As Global.DevExpress.Web.ASPxButton
+		Protected btnMoveSelectedItemsToRight As Global.DevExpress.Web.ASPxEditors.ASPxButton
 
 		''' <summary>
 		''' btnMoveAllItemsToRight control.
@@ -64,7 +64,7 @@ Namespace E2636
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnMoveAllItemsToRight As Global.DevExpress.Web.ASPxButton
+		Protected btnMoveAllItemsToRight As Global.DevExpress.Web.ASPxEditors.ASPxButton
 
 		''' <summary>
 		''' btnMoveSelectedItemsToLeft control.
@@ -73,7 +73,7 @@ Namespace E2636
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnMoveSelectedItemsToLeft As Global.DevExpress.Web.ASPxButton
+		Protected btnMoveSelectedItemsToLeft As Global.DevExpress.Web.ASPxEditors.ASPxButton
 
 		''' <summary>
 		''' btnMoveAllItemsToLeft control.
@@ -82,7 +82,7 @@ Namespace E2636
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnMoveAllItemsToLeft As Global.DevExpress.Web.ASPxButton
+		Protected btnMoveAllItemsToLeft As Global.DevExpress.Web.ASPxEditors.ASPxButton
 
 		''' <summary>
 		''' btnRestore control.
@@ -91,7 +91,7 @@ Namespace E2636
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnRestore As Global.DevExpress.Web.ASPxButton
+		Protected btnRestore As Global.DevExpress.Web.ASPxEditors.ASPxButton
 
 		''' <summary>
 		''' TargetGrid control.
@@ -100,7 +100,7 @@ Namespace E2636
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected TargetGrid As Global.DevExpress.Web.ASPxGridView
+		Protected TargetGrid As Global.DevExpress.Web.ASPxGridView.ASPxGridView
 
 		''' <summary>
 		''' TargetDS control.

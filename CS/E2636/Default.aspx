@@ -98,7 +98,7 @@
             <dx:ASPxGridView ID="SourceGrid" ClientInstanceName="sourceGrid" runat="server" AutoGenerateColumns="false" KeyFieldName="CategoryID"
                 DataSourceID="SourceDS" OnCustomCallback="SourceGrid_CustomCallback">
                 <Columns>
-                    <dx:GridViewCommandColumn ShowSelectCheckbox="True" SelectAllCheckboxMode="Page" />
+                    <dx:GridViewCommandColumn ShowSelectCheckbox="True" />
                     <dx:GridViewDataTextColumn FieldName="CategoryName" />
                     <dx:GridViewDataTextColumn FieldName="Description" />
                 </Columns>
@@ -150,7 +150,7 @@
             <dx:ASPxGridView ID="TargetGrid" runat="server" ClientInstanceName="targetGrid" AutoGenerateColumns="false" KeyFieldName="CategoryID"
                 DataSourceID="TargetDS" OnCustomCallback="TargetGrid_CustomCallback">
                 <Columns>
-                    <dx:GridViewCommandColumn ShowSelectCheckbox="True" SelectAllCheckboxMode="Page" />
+                    <dx:GridViewCommandColumn ShowSelectCheckbox="True" />
                     <dx:GridViewDataTextColumn FieldName="CategoryName" />
                     <dx:GridViewDataTextColumn FieldName="Description" />
                 </Columns>
