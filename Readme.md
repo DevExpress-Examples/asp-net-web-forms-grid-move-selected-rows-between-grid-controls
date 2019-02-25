@@ -1,8 +1,8 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/E2636/Default.aspx) (VB: [Default.aspx.vb](./VB/E2636/Default.aspx.vb))
+* [Default.aspx.cs](./CS/E2636/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E2636/Default.aspx.vb))
 <!-- default file list end -->
 # How to move selected rows from the ASPxGridView into another ASPxGridView
 
