@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to move selected rows from the ASPxGridView into another ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2636/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to move selected rows from the ASPxGridView control into another ASPxGridView. Data manipulations are performed on the database's side.</p>
