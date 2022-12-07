@@ -18,7 +18,7 @@ Namespace E2636
 
 		End Sub
 
-		Protected Sub TargetGrid_CustomCallback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxGridView.ASPxGridViewCustomCallbackEventArgs)
+		Protected Sub TargetGrid_CustomCallback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxGridViewCustomCallbackEventArgs)
 			rowValues = New List(Of Object)()
 
 			Select Case e.Parameters
@@ -62,7 +62,7 @@ Namespace E2636
 			End Select
 		End Sub
 
-		Protected Sub SourceGrid_CustomCallback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxGridView.ASPxGridViewCustomCallbackEventArgs)
+		Protected Sub SourceGrid_CustomCallback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxGridViewCustomCallbackEventArgs)
 			rowValues = New List(Of Object)()
 			Select Case e.Parameters
 				Case "removeSelectedRows"

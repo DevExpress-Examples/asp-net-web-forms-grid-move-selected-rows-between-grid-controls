@@ -5,7 +5,7 @@ Namespace E2636
 		Inherits System.Web.HttpApplication
 
 		Private Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
-			AddHandler DevExpress.Web.ASPxClasses.ASPxWebControl.CallbackError, AddressOf Application_Error
+			AddHandler DevExpress.Web.ASPxWebControl.CallbackError, AddressOf Application_Error
 		End Sub
 
 		Private Sub Application_End(ByVal sender As Object, ByVal e As EventArgs)

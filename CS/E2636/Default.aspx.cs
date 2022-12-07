@@ -19,7 +19,7 @@ namespace E2636
 
         }
 
-        protected void TargetGrid_CustomCallback(object sender, DevExpress.Web.ASPxGridView.ASPxGridViewCustomCallbackEventArgs e)
+        protected void TargetGrid_CustomCallback(object sender, DevExpress.Web.ASPxGridViewCustomCallbackEventArgs e)
         {
             rowValues = new List<object>();
             
@@ -74,7 +74,7 @@ namespace E2636
             }
         }
 
-        protected void SourceGrid_CustomCallback(object sender, DevExpress.Web.ASPxGridView.ASPxGridViewCustomCallbackEventArgs e)
+        protected void SourceGrid_CustomCallback(object sender, DevExpress.Web.ASPxGridViewCustomCallbackEventArgs e)
         {
             rowValues = new List<object>();
             switch (e.Parameters)
