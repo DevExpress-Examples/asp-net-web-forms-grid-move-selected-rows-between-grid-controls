@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to move selected rows between grid controls
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2636/)**
+**[[Run Online]](https://codecentral.devexpress.com/128541793/)**
 <!-- run online end -->
 
 This example demonstrates how to move selected rows from one grid to another on a custom button click and update data sources on the server.
